@@ -29,9 +29,6 @@ I'm passionate about creating beautiful, responsive, and user-friendly web exper
 - Bachelor of Science in Computer Science, [Cairo University], [2022]
 - Certification in UI/UX Design, [Google Digital Garage], [2023]
 
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### 🌐 Let's Connect!
 
